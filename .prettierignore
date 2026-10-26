@@ -1,0 +1,9 @@
+node_modules
+dist
+test-results
+playwright-report
+package-lock.json
+PROMPT_LOG.md
+
+docs/CONTINUATION_BRIEF.md
+docs/VISUAL_REFINEMENT_BRIEF.md
